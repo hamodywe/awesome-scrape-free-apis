@@ -4,10 +4,10 @@
 
 > A curated list of **free** web scraping APIs covering social media platforms and general websites, designed for quick testing and community benefit.
 
-> ![Description of Image](https://cheq.ai/wp-content/uploads/2022/05/hero-web-scraping.png)
 
 ## Getting Started
 To access these free requests, simply register for an account on [RapidAPI](https://rapidapi.com/). Once registered, you can start using the APIs listed below with the free-tier requests available.
+> ![Description of Image](https://cheq.ai/wp-content/uploads/2022/05/hero-web-scraping.png)
 
 ![Placeholder for an Image](https://via.placeholder.com/800x400)
 
@@ -15,7 +15,6 @@ To access these free requests, simply register for an account on [RapidAPI](http
 - [Overview](#overview)
 - [Social Media Scraping APIs](#social-media-scraping-apis)
 - [General Website Scraping APIs](#general-website-scraping-apis)
-- [Usage Examples](#usage-examples)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -62,8 +61,7 @@ This repository gathers publicly available, free-tier APIs for scraping data fro
 ### ScrapeNinja
 - **ScrapeNinja** – High-performance scraping with real browser fingerprinting. 50 non-JS requests monthly, 500 JS-enabled requests monthly. [API Link](https://rapidapi.com/restyler/api/scrapeninja)
 
-## Usage Examples
-Here are some examples of how to use these APIs in your projects. (Add specific code snippets or examples here.)
+
 
 ## Contributing
 Contributions are **welcome**! To add a new API or improve descriptions:
