@@ -4,6 +4,8 @@
 
 > A curated list of **free** web scraping APIs covering social media platforms and general websites, designed for quick testing and community benefit.
 
+> ![Description of Image](https://cheq.ai/wp-content/uploads/2022/05/hero-web-scraping.png)
+
 ## Getting Started
 To access these free requests, simply register for an account on [RapidAPI](https://rapidapi.com/). Once registered, you can start using the APIs listed below with the free-tier requests available.
 
@@ -74,4 +76,4 @@ Contributions are **welcome**! To add a new API or improve descriptions:
 This project is licensed under the **CC0‑1.0** License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/yourusername/awesome-scrape-free-apis/issues) or contact us at [email@example.com](mailto:email@example.com).
+For questions or suggestions, feel free to reach out via [GitHub Issues](https://github.com/hamodywe/awesome-scrape-free-apis/issues).
